@@ -13,7 +13,6 @@
 
 ## Connect with me
 <p style="display:flex; gap:20px; justify-content:center;">
-  <a target= "_blank" href="https://orangeseeds.github.io/" alt="Blog"><img height='45' src="https://i.imgur.com/nTfXNhq.png"></a>
   <a target= "_blank" href="mailto:orangeseeds101@pm.me" alt="Mail"><img height='45' src="https://i.imgur.com/XRukMPf.png"></a>
   <a target= "_blank" href="https://github.com/orangeseeds" alt="GitHub"><img height='45' src="https://i.imgur.com/8ju9qds.png"></a>
   <a target= "_blank" href="https://www.linkedin.com/in/shubhechchhak-pokharel-6a8389237/?original_referer=" alt="Linkedin"><img height='45' src="https://i.imgur.com/j8mhAIv.png"></a>
@@ -30,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a target= "_blank" href="https://orangeseeds.github.io/" alt="Blog"><img height='45' src="https://i.imgur.com/nTfXNhq.png"></a>
 -->
