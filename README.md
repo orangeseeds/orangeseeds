@@ -2,7 +2,7 @@
 
 
 
-- 💻 I’m currently working on a [udp-hole-punching](https://github.com/orangeseeds/udp-hole-punching)
+- 💻 I’m currently working on [udp-hole-punching](https://github.com/orangeseeds/udp-hole-punching)
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog-img.luanruisong.com%2Fblog%2Fimg%2F20210304140340.gif" alt="drawing" width="24"/>  I’m currently learning **[Go](https://go.dev/)** and **[Docker](https://www.docker.com/)**
 - 🛠 I’m also working to get my blog up soon
 <!--
