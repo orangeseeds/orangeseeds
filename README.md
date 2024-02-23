@@ -6,7 +6,7 @@
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog-img.luanruisong.com%2Fblog%2Fimg%2F20210304140340.gif" alt="drawing" width="24"/>  I’m currently learning **[Go](https://go.dev/)** and **[Docker](https://www.docker.com/)**
 - 🛠 I’m also working to get my blog up soon
 - 🤔 I’m looking for help with **[ThreeJS](https://threejs.org/)**
-
+<!--
 ![Shubhechchhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeseeds&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeseeds&layout=compact)
@@ -17,7 +17,7 @@
   <a target= "_blank" href="https://github.com/orangeseeds" alt="GitHub"><img height='45' src="https://i.imgur.com/8ju9qds.png"></a>
   <a target= "_blank" href="https://www.linkedin.com/in/shubhechchhak-pokharel-6a8389237/?original_referer=" alt="Linkedin"><img height='45' src="https://i.imgur.com/j8mhAIv.png"></a>
 </p>
-
+-->
 <!--
 **orangeseeds/orangeseeds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
